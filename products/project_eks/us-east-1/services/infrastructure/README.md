@@ -20,7 +20,7 @@ Directory Structure:
 The deployment of the EKS was performed using a module from terraform repository
 (https://registry.terraform.io/modules/terraform-aws-modules/eks/aws/latest).
 
-**nlb**
+**nlb** -
     An installation of nginx-ingress and deploying the NLB loadbalancer. 
     It is based on a module created for installing the ingress (Nginx) on the EKS cluster 
     (tf-modules\eks_nginx_controller)
