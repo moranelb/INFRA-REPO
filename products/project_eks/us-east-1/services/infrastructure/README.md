@@ -2,7 +2,6 @@
 
 # **Deploy an EKS Cluster with Managed Nodegorups**
 
-![argo-cd](/pictures/eks_argocd_web.gif)
 
 </div>
 
