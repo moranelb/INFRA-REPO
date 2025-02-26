@@ -41,7 +41,7 @@ Pods deployment:
 Ingress:
 ![ingress](/pictures/eks_ingress.gif)
 
-SVC
+SVC:
 ![SVC](/pictures/eks_svc.gif)
 
 ArgoCD web:
